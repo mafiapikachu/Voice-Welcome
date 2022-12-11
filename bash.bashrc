@@ -1,7 +1,7 @@
 command_not_found_handle() {
         /data/data/com.termux/files/usr/libexec/termux/command-not-found "$1"
 }
-PS1='\[\e[31m\]┌─[\[\e[37m\]\T\[\e[31m\]]─────\e[1;93m[OnlineHacking]\e[0;31m───[\#]\n|\n\e[0;31m└─[\[\e[31m\]\e[0;35m\W\[\e[31m\]]────►\e[1;92m'
+PS1='\[\e[31m\]┌─[\[\e[37m\]\T\[\e[31m\]]─────\e[1;93m[AurAndro]\e[0;31m───[\#]\n|\n\e[0;31m└─[\[\e[31m\]\e[0;35m\W\[\e[31m\]]────►\e[1;92m'
 clear
 mpv /$HOME/Voice-Welcome/termux.mp3
 clear
@@ -29,14 +29,17 @@ echo "    YMb           ~YMMMM\ OOOOI•••••IOOOOO /MMMMP~           dMP
 echo "      Mb.            YMMMb OOOI,,,,,IOOOO dMMMP            ,dM  "
 echo "       ••                   OObNNNNNdOO                    •• "
 echo "                              ~OOOOO~    SUMAN "
-echo "              _ "
-echo "             / \ ._  | o ._   _    |_|  _.  _ |  o ._   _ "
-echo "             \_/ | | | | | | (/_   | | (_| (_ |< | | | (_| "
-echo "                                                        _| "
+echo "           
+echo "      ╭━━━┳╮╱╭┳━━━╮╭━━━┳━╮╱╭┳━━━┳━━━┳━━━╮
+echo "      ┃╭━╮┃┃╱┃┃╭━╮┃┃╭━╮┃┃╰╮┃┣╮╭╮┃╭━╮┃╭━╮┃
+echo "      ┃┃╱┃┃┃╱┃┃╰━╯┃┃┃╱┃┃╭╮╰╯┃┃┃┃┃╰━╯┃┃╱┃┃
+echo "      ┃╰━╯┃┃╱┃┃╭╮╭╯┃╰━╯┃┃╰╮┃┃┃┃┃┃╭╮╭┫┃╱┃┃
+echo "      ┃╭━╮┃╰━╯┃┃┃╰╮┃╭━╮┃┃╱┃┃┣╯╰╯┃┃┃╰┫╰━╯┃
+echo "      ╰╯╱╰┻━━━┻╯╰━╯╰╯╱╰┻╯╱╰━┻━━━┻╯╰━┻━━━╯
 echo -e "\e[1;92m"
 echo "   ⊢□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■□■■□■□■□■□■□■□■□■□■□■⊣"
 echo ""
-echo -e "\e[1;91m                [\e[1;96m*\e[1;91m] \e[1;97mWebSite   \e[1;91m =  \e[1;97monlinehacking.in"
+echo -e "\e[1;91m                [\e[1;96m*\e[1;91m] \e[1;97mWebSite   \e[1;91m =  \e[1;97mclickshort.tech"
 echo "" 
 echo -e "\e[1;91m                [\e[1;96m*\e[1;91m] \e[1;97mGithub    \e[1;91m =  \e[1;97biharibabu"
 echo ""
